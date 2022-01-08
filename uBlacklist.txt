@@ -61,7 +61,7 @@
 *://*.uranai-m.info/*
 *://*.usonews.org/*
 *://*.vipmat.net/*
-*://*.voca-rom.com/archives/20931476.html/*
+*://*.voca-rom.com/archives/*
 *://*.wara2ch.com/*
 *://*.womenetcetera.net/*
 *://*.womenfolk-ecology-institute.com/*
