@@ -11,7 +11,11 @@ chromium系ブラウザのconsoleで以下を実行し、結果を手動でtxt�
 ```js
 const format = (a) => {
 	if (!a) return []
-	const link = a.href.replace(/https?:\/\//, '*://').replace('://www.', '://*.').replace(/index\.(html|php)$/, '')
+	let link = a.href.replace(/^https?:\/\//, '*://').replace('://www.', '://*.')
+	const last = link.split('/').slice(-1)[0]
+	if (last.endsWith('.html') || last.endsWith('.php')) {
+		link = link.replace(last, '')
+	}
 	return [link.endsWith('/') ? link + '*' : link + '/*']
 }
 // for https://dic.nicovideo.jp/a/2ch%E9%96%A2%E9%80%A3%E3%81%BE%E3%81%A8%E3%82%81%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%80%E8%A6%A7
