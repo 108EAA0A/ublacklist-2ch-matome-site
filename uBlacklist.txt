@@ -38,9 +38,9 @@
 *://*.lovehack.jp/*
 *://*.marusoku.net/*
 *://*.matacoco.com/*
-*://*.mikmik-mok.sakura.ne.jp/2chMachSokuho/DBhtml/newsplus/index.html/*
-*://*.mikmik-mok.sakura.ne.jp/2chmatomaid/index.php/*
-*://*.mikmik-mok.sakura.ne.jp/2chzidomatome/index.php/*
+*://*.mikmik-mok.sakura.ne.jp/2chMachSokuho/DBhtml/newsplus/*
+*://*.mikmik-mok.sakura.ne.jp/2chmatomaid/*
+*://*.mikmik-mok.sakura.ne.jp/2chzidomatome/*
 *://*.nebusoku.biz/*
 *://*.negisoku.com/*
 *://*.news30over.com/*
@@ -575,7 +575,7 @@
 *://d.hatena.ne.jp/nunnnunn/*
 *://dabababablog.blog.fc2.com/*
 *://daihonneihappyou.blog.fc2.com/*
-*://daikon.matrix.jp/2chninkikizi/index.php/*
+*://daikon.matrix.jp/2chninkikizi/*
 *://daityan555.net/*
 *://damage0.blomaga.jp/*
 *://damesoku.blog114.fc2.com/*
@@ -1307,7 +1307,7 @@
 *://terabaro.blog.fc2.com/*
 *://terusoku.ldblog.jp/*
 *://tesaguriguri.blog.fc2.com/*
-*://tetujinsokuhou.dousetsu.com/index.html/*
+*://tetujinsokuhou.dousetsu.com/*
 *://tihoukoumuin.blog.jp/*
 *://tintena.net/*
 *://tmerumerume.seesaa.net/*
